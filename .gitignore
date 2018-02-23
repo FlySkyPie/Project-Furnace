@@ -1,0 +1,5 @@
+# QT project config
+*.user
+
+# QT build folder
+build/
